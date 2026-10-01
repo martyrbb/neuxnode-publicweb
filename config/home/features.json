@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Built For",
+    "accent": "Reliability.",
+    "description": "Modern hosting infrastructure designed for performance, stability, and reliability."
+  },
+  "items": [
+    {
+      "title": "High Performance",
+      "desc": "Powered by modern hardware and optimised infrastructure to deliver fast and responsive hosting performance.",
+      "icon": "Zap"
+    },
+    {
+      "title": "Global Reach",
+      "desc": "Reliable network connectivity and infrastructure designed to provide strong performance for users worldwide.",
+      "icon": "Globe"
+    },
+    {
+      "title": "24/7 Support",
+      "desc": "Our support team is available around the clock to assist with technical issues, questions, and account support.",
+      "icon": "LifeBuoy"
+    },
+    {
+      "title": "Secure Network",
+      "desc": "Advanced security systems and network protection help keep services stable, secure, and protected from threats.",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Affordable Pricing",
+      "desc": "Transparent and competitive pricing designed to deliver reliable hosting without unnecessary costs.",
+      "icon": "DollarSign"
+    },
+    {
+      "title": "Dedicated Resources",
+      "desc": "Carefully managed infrastructure ensures consistent performance and reliable resource allocation across services."
+    }
+  ]
+}

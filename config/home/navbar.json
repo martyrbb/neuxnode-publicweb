@@ -1,0 +1,56 @@
+{
+  "alert": {
+    "enabled": true,
+    "bgStyle": "bg-blue-800",
+    "borderStyle": "border-b border-blue-700/50",
+    "promo": {
+      "iconType": "fire",
+      "fullMessage": "Premium Hosting! Use Code NEUX20 for 20% OFF",
+      "textColor": "text-white"
+    },
+    "socials": {
+      "whatsapp": {
+        "enabled": false,
+        "number": "1234567890",
+        "label": "+1 234 567 890",
+        "iconColor": "text-green-400"
+      },
+      "status": {
+        "enabled": true,
+        "url": "https://status.neuxnode.com",
+        "label": "Node Status",
+        "iconColor": "text-white"
+      },
+      "discord": {
+        "enabled": true,
+        "url": "https://discord.gg/U274JnqCkv",
+        "label": "Discord",
+        "iconColor": "text-white"
+      }
+    }
+  },
+  "brand": {
+    "name": "",
+    "logoPath": "/images/neuxnode-logo.png"
+  },
+  "navLinks": [
+    { "name": "Home", "href": "/", "dropdown": false },
+    { "name": "Game Hosting", "href": "/game-servers", "dropdown": false },
+    { "name": "VPS Hosting", "href": "/root-servers", "dropdown": false },
+    { "name": "Bot Hosting", "href": "/bot-hosting", "dropdown": false },
+    {
+      "name": "Legal",
+      "dropdown": true,
+      "items": [
+        { "name": "Terms of Service", "href": "/legal/terms-of-service" },
+        { "name": "Privacy Policy", "href": "/legal/privacy-policy" },
+        { "name": "SLA", "href": "/legal/service-level-agreement" },
+        { "name": "Refund Policy", "href": "/legal/refund-policy" }
+      ]
+    }
+  ],
+  "buttons": {
+    "login": { "label": "Client Area", "href": "https://my.neuxnode.com", "enabled": true },
+    "signup": { "label": "Game Panel", "href": "https://game.neuxnode.com", "enabled": true } 
+  }
+}

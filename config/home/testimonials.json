@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "Trusted by Thousands",
+    "accent": "Gamers",
+    "description": "Our community's feedback drives our infrastructure standards."
+  },
+  "trustpilotUrl": "https://trustpilot.com/review/lunar-host.xyz",
+  "reviews": [
+    {
+      "name": "John Doe",
+      "handle": "@johndoe",
+      "rating": 5,
+      "text": "Lunar host has been a game-changer for my Minecraft server. The performance is top-notch and the support team is incredibly responsive. Highly recommend!"
+    },
+    {
+      "name": "Max Well",
+      "handle": "@maxwell",
+      "rating": 4,
+      "text": "The support was a bit slow at times, but overall the hosting service is decent for the price. My server runs smoothly, but I wish they had more features."
+    },
+    {
+      "name": "Jane Smith",
+      "handle": "@janesmith",
+      "rating": 5,
+      "text": "I switched to Lunar host from another provider and I'm so glad I did. The uptime is fantastic and the customer service is always there when I need it."
+    },
+    {
+      "name": "Emily Davis",
+      "handle": "@emilydavis",
+      "rating": 3,
+      "text": "The hosting is good, but I've had some issues with lag during peak hours. Support was helpful, but I hope they can improve the performance soon."
+    },
+    {
+      "name": "Chris Brown",
+      "handle": "@chrisbrown",
+      "rating": 4,
+      "text": "Lunar host offers great value for the price. My server runs well and the support team is friendly. I just wish they had more customization options."
+    },
+    {
+      "name": "Sarah Lee",
+      "handle": "@sarahlee",
+      "rating": 5,
+      "text": "I switched to Lunar host from another provider and I'm so glad I did. The uptime is fantastic and the customer service is always there when I need it."
+    }
+  ]
+}

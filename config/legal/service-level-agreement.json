@@ -1,0 +1,35 @@
+{
+  "title": "Service Level Agreement (SLA)",
+  "lastUpdated": "17-04-2026",
+  "description": "This Service Level Agreement outlines the uptime commitment, support response times, and service guarantees provided by LunarHost.",
+  "policies": [
+    {
+      "title": "1. Uptime Guarantee",
+      "desc": "LunarHost guarantees a 99.9% uptime for all hosting services on a monthly basis. Uptime is defined as the total time the service is operational and accessible. Scheduled maintenance and events outside of our control are excluded from uptime calculations."
+    },
+    {
+      "title": "2. Scheduled Maintenance",
+      "desc": "We may perform scheduled maintenance to ensure optimal performance and security. Users will be notified in advance whenever possible. Scheduled maintenance windows are not counted as downtime under the SLA."
+    },
+    {
+      "title": "3. Support Response Time",
+      "desc": "Our support team aims to respond to all tickets within defined timeframes: Critical issues within 1 hour, High priority within 4 hours, Medium priority within 12 hours, and Low priority within 24 hours. Response times may vary depending on complexity and volume."
+    },
+    {
+      "title": "4. Service Credits",
+      "desc": "If LunarHost fails to meet the guaranteed uptime, eligible users may request service credits. Credits are calculated based on the amount of downtime experienced and are applied to future billing cycles. Service credits are not issued automatically and must be requested."
+    },
+    {
+      "title": "5. Exclusions",
+      "desc": "This SLA does not apply to downtime caused by user actions, third-party software, DDoS attacks, force majeure events, hardware misuse, or violations of our Terms of Service. Network issues beyond our infrastructure are also excluded."
+    },
+    {
+      "title": "6. Monitoring & Reporting",
+      "desc": "We continuously monitor our infrastructure to ensure high availability and performance. Users may also monitor their services independently. Uptime calculations are based on our internal monitoring systems unless otherwise stated."
+    },
+    {
+      "title": "7. Service Limitations",
+      "desc": "While we strive to deliver consistent and reliable performance, LunarHost does not guarantee that services will be completely uninterrupted or error-free. This SLA defines the limits of our liability and the remedies available to users in case of service disruptions."
+    }
+  ]
+}

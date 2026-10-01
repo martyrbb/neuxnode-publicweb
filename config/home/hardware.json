@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Enterprise Grade",
+    "accent": "Hardware",
+    "description": "We don’t compromise. Every node in our network is custom-built with the latest generation hardware to ensure your projects never hit a bottleneck.",
+    "ctaText": "View Benchmarks",
+    "ctaHref": "https://browser.geekbench.com/v6/cpu/17513419"
+  },
+  "specs": [
+    {
+      "label": "Processor",
+      "value": "AMD Ryzen 9 7950x3D",
+      "desc": "5.7GHz Max Boost Clock",
+      "icon": "Cpu"
+    },
+    {
+      "label": "Memory",
+      "value": "64GB DDR5 ODECC",
+      "desc": "High-speed 5600MHz RAM",
+      "icon": "MemoryStick"
+    },
+    {
+      "label": "Storage",
+      "value": "M.2 NVMe SSDs",
+      "desc": "Enterprise grade performance",
+      "icon": "HardDrive"
+    },
+    {
+      "label": "Network",
+      "value": "10Gbps Uplink",
+      "desc": "Low-latency routing with 20+ PoPs",
+      "icon": "Shield"
+    }
+  ]
+}

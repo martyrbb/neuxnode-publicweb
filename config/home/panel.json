@@ -1,0 +1,45 @@
+{
+  "header": {
+    "title": "Manage Your Server",
+    "accent": "Like a Pro",
+    "description": "Our panel is continually evolving and improving to provide you with the best experience possible."
+  },
+  "tabs": [
+    {
+      "id": "console",
+      "label": "Console",
+      "icon": "SquareTerminal",
+      "image": "/images/panel-console.png"
+    },
+    {
+      "id": "files",
+      "label": "File Manager",
+      "icon": "FolderOpen",
+      "image": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": "subusers",
+      "label": "Subusers",
+      "icon": "Users",
+      "image": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": "backups",
+      "label": "Backups",
+      "icon": "Database",
+      "image": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": "network",
+      "label": "Network",
+      "icon": "Network",
+      "image": "https://placehold.co/1920x1080"
+    },
+    {
+      "id": "schedules",
+      "label": "Schedules",
+      "icon": "Calendar",
+      "image": "https://placehold.co/1920x1080"
+    }
+  ]
+}

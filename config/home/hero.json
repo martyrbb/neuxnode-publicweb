@@ -1,0 +1,20 @@
+{
+  "content": {
+    "title": "Hosting without",
+    "accent": "the chaos",
+    "description": "Built for communities that expect performance without compromise. NeuxNode delivers fast, reliable hosting powered by premium hardware, low latency routing, and enterprise-grade DDoS protection trusted to keep your servers online when it matters most.",
+    "primaryBtn": { "text": "View Plans", "href": "/game-servers" },
+    "secondaryBtn": { "text": "Contact Support", "href": "/contact" }
+  },
+  "sections": {
+    "partners": false,
+    "features": true,
+    "services": false,
+    "locations": false,
+    "panel": false,
+    "hardware": true,
+    "faq": true,
+    "testimonials": false,
+    "cta": true
+  }
+}

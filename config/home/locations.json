@@ -1,0 +1,17 @@
+{
+  "header": {
+    "title": "Global",
+    "accent": "Locations",
+    "description": "Play with lowest latency and best performance by choosing the right location for your server."
+  },
+  "countries": [
+    "Germany",
+    "Spain",
+    "Netherlands",
+    "United Kingdom",
+    "United States",
+    "Singapore",
+    "Australia",
+    "India"
+  ]
+}

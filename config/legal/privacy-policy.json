@@ -1,0 +1,39 @@
+{
+  "title": "Privacy Policy",
+  "lastUpdated": "25th May 2026",
+  "description": "This Privacy Policy explains how LunarHost collects, uses, stores, and protects your personal information when you use our services.",
+  "policies": [
+    {
+      "title": "1. Information We Collect",
+      "desc": "NeuxNode Limited collects information necessary to provide and maintain our services, including names, email addresses, billing details, IP addresses, account information, and usage-related data. Additional information may be collected when users contact support or interact with our platform."
+    },
+    {
+      "title": "2. How We Use Your Information",
+      "desc": "Collected information is used to operate and maintain services, process payments, provide customer support, improve performance, communicate important updates, monitor security, and prevent fraud or abuse across our infrastructure."
+    },
+    {
+      "title": "3. Data Sharing & Disclosure",
+      "desc": "NeuxNode Limited does not sell or rent customer data to third parties. Information may be shared with trusted service providers such as payment processors, infrastructure providers, or security partners strictly where required for operational purposes or legal compliance."
+    },
+    {
+      "title": "4. Data Security",
+      "desc": "NeuxNode Limited implements industry-standard technical and organisational security measures to protect customer information from unauthorised access, misuse, disclosure, alteration, or destruction. While we take reasonable precautions, no online system can be guaranteed completely secure."
+    },
+    {
+      "title": "5. Cookies & Tracking",
+      "desc": "Our website and services may use cookies and similar technologies to improve functionality, analyse traffic, enhance user experience, and maintain security. Users may manage or disable cookies through their browser settings where applicable."
+    },
+    {
+      "title": "6. Data Retention",
+      "desc": "Personal information may be retained only for as long as necessary to provide services, comply with legal obligations, resolve disputes, maintain records, and enforce agreements. Data that is no longer required may be securely deleted or anonymised."
+    },
+    {
+      "title": "7. User Rights",
+      "desc": "Users may request access to their personal information, request corrections to inaccurate data, or request deletion of data where permitted under applicable laws and regulations. Requests may be submitted through NeuxNode Limited support channels."
+    },
+    {
+      "title": "8. Policy Updates",
+      "desc": "NeuxNode Limited reserves the right to modify or update this Privacy Policy at any time. Continued use of services after changes are published constitutes acceptance of the updated policy."
+    }
+  ]
+}

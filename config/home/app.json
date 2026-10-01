@@ -1,0 +1,11 @@
+{
+  "site": {
+    "name": "Neuxnode",
+    "description": "",
+    "url": "https://neuxnode.com",
+    "themeColor": "#2525DE",
+    "ogImage": "/images/og.webp",
+    "logo": "/images/logo.png",
+    "twitter": "@neuxnode"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "brand": {
+    "description": "Enjoy lag-free gaming with our high-performance game servers, optimized for speed and reliability. Experience seamless multiplayer action with low latency and DDoS protection."
+  },
+  "status": {
+    "url": "#",
+    "text": "All Systems Operational"
+  },
+  "watermark": {
+    "enabled": true,
+    "url": "https://mojang.com"
+  },
+  "sections": [
+    {
+      "title": "Browse",
+      "links": [
+        { "label": "Game Servers", "url": "/game-servers" },
+        { "label": "VPS Hosting", "url": "/game-servers" },
+        { "label": "Dedicated Servers", "url": "/dedicated-servers" },
+        { "label": "Web Hosting", "url": "/web-hosing" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "label": "Terms of Service", "url": "/legal/terms-of-service" },
+        { "label": "Privacy Policy", "url": "/legal/privacy-policy" },
+        { "label": "SLA", "url": "/legal/service-level-agreement" },
+        { "label": "Refund Policy", "url": "/legal/refund-policy" }
+      ]
+    },
+    {
+      "title": "Support",
+      "links": [
+        { "label": "Knowledgebase", "url": "#" },
+        { "label": "Documentation", "url": "#" },
+        { "label": "Service Status", "url": "#" },
+        { "label": "Support Ticket", "url": "#" }
+      ]
+    },
+    {
+      "title": "Network",
+      "links": [
+        { "label": "Report Abuse", "url": "#" },
+        { "label": "AS123456", "url": "#" },
+        { "label": "DDoS Protection", "url": "#" },
+        { "label": "Upstreams", "url": "#" }
+      ]
+    }
+  ],
+  "socials": [
+    { "platform": "Discord", "url": "https://discord.gg/U274JnqCkv", "enabled": true },
+    { "platform": "Instagram", "url": "https://instagram.com/neuxnode", "enabled": true },
+    { "platform": "Youtube", "url": "https://youtube.com/neuxnode", "enabled": true },
+    { "platform": "Facebook", "url": "https://facebook.com/neuxnode", "enabled": false },
+    { "platform": "Linkedin", "url": "https://linkedin.com/neuxnode", "enabled": false },
+    { "platform": "Tiktok", "url": "https://tiktok.com/neuxnode", "enabled": false },
+    { "platform": "Trustpilot", "url": "https://trustpilot.com/neuxnode", "enabled": true },
+    { "platform": "Email", "url": "mailto:support@neuxnode.com", "enabled": true }
+  ]
+}

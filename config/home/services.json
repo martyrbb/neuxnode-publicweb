@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Our",
+    "accent": "Services",
+    "description": "Tailored hosting solutions for every scale."
+  },
+  "items": [
+    {
+      "title": "Game Servers",
+      "desc": "High-tickrate performance optimized for low-latency gaming and instant deployment.",
+      "icon": "Gamepad2",
+      "href": "/game-hosting",
+      "comingSoon": false
+    },
+    {
+      "title": "Root Servers",
+      "desc": "Full administrative access with dedicated virtualized resources for maximum control.",
+      "icon": "Cloud",
+      "href": "/vps-hosting",
+      "comingSoon": false
+    },
+    {
+      "title": "Dedicated Servers",
+      "desc": "Bare-metal hardware exclusively for your high-demand enterprise applications.",
+      "icon": "Server",
+      "href": "/dedicated-servers",
+      "comingSoon": false
+    }
+  ]
+}

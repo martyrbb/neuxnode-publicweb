@@ -1,0 +1,39 @@
+{
+  "title": "Terms of Service",
+  "lastUpdated": "25th May 2026",
+  "description": "These Terms of Service (“Terms”) govern the use of services provided by NeuxNode Limited (“NeuxNode”, “we”, “our”, or “us”). By purchasing or using any service provided by NeuxNode, you agree to comply with these Terms.",
+  "policies": [
+    {
+      "title": "1. Acceptable Use",
+      "desc": "Users may only use NeuxNode Limited services for lawful purposes. Prohibited activities include DDoS attacks, hacking attempts, malware distribution, phishing, spam, hosting illegal content, unauthorized crypto mining, and any activity that negatively impacts infrastructure stability, performance, or other customers."
+    },
+    {
+      "title": "2. Account Security",
+      "desc": "Clients are responsible for maintaining the confidentiality and security of their account credentials, including passwords, API keys, and billing information. NeuxNode Limited is not liable for losses caused by compromised credentials, weak passwords, or unauthorized access resulting from user negligence."
+    },
+    {
+      "title": "3. Payments & Billing",
+      "desc": "All services provided by NeuxNode Limited are billed in advance according to the selected billing cycle. Invoices must be paid before the due date to avoid suspension or termination of services. Unless otherwise stated, all payments are non-refundable. Prices may change with reasonable prior notice."
+    },
+    {
+      "title": "4. Service Availability",
+      "desc": "NeuxNode Limited aims to provide reliable and high-performance hosting services but does not guarantee uninterrupted uptime or availability. Downtime may occur due to maintenance, hardware failure, network disruptions, software issues, security incidents, or third-party provider outages."
+    },
+    {
+      "title": "5. Backups and Data Responsibility",
+      "desc": "While NeuxNode Limited may provide backup systems or automated backups, clients remain solely responsible for maintaining their own backups of websites, files, databases, and configurations. NeuxNode Limited is not liable for data loss under any circumstance."
+    },
+    {
+      "title": "6. Suspension and Termination",
+      "desc": "NeuxNode Limited reserves the right to suspend, restrict, or terminate services without prior notice if a client violates these terms, engages in illegal activity, poses a security risk, abuses infrastructure resources, or fails to make payment on time."
+    },
+    {
+      "title": "7. Modifications to Terms",
+      "desc": "NeuxNode Limited reserves the right to modify, update, or replace these Terms of Service at any time. Continued use of services after changes are published constitutes acceptance of the updated terms and policies."
+    },
+    {
+      "title": "8. Limitation of Liability",
+      "desc": "To the maximum extent permitted by law, NeuxNode Limited shall not be liable for indirect, incidental, consequential, or financial damages including loss of profits, business, revenue, or data resulting from the use or inability to use our services."
+    }
+  ]
+}

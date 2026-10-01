@@ -1,0 +1,32 @@
+{
+  "name": "Discord Bot",
+  "heroImage": "/images/discord-bg.webp",
+  "description": "Deploy your Discord bots on ultra-reliable, low-latency infrastructure. Engineered for Node.js, Python, Java, and Go with an automated 100% uptime guarantee.",
+  "accent": "#5865F2",
+  "plans": [
+    {
+      "name": "Starter",
+      "ram": "1 GB",
+      "cpu": "1",
+      "ssd": "10 GB",
+      "traffic": "Unmetered",
+      "uplink": "1 Gbps",
+      "ipv4": "Shared Ports",
+      "ddos": "Advanced",
+      "price": 2.99,
+      "orderLink": ""
+    },
+    {
+      "name": "Ultra",
+      "ram": "4 GB",
+      "cpu": "2",
+      "ssd": "40 GB",
+      "traffic": "Unmetered",
+      "uplink": "10 Gbps",
+      "ipv4": "Dedicated Ports",
+      "ddos": "Advanced",
+      "price": 8.99,
+      "orderLink": ""
+    }
+  ]
+}

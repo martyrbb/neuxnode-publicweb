@@ -1,0 +1,35 @@
+{
+  "title": "Refund Policy",
+  "lastUpdated": "25th May 2026",
+  "description": "This Refund Policy outlines the conditions under which NeuxNode Limited provides refunds for its services.",
+  "policies": [
+    {
+      "title": "1. Eligibility for Refunds",
+      "desc": "Refunds are only available for first-time purchases made by new customers and must be requested within 7 days of the initial purchase unless otherwise stated. Services purchased during promotional offers, discounts, or special campaigns may not be eligible for refunds."
+    },
+    {
+      "title": "2. Non-Refundable Services",
+      "desc": "Certain services provided by NeuxNode Limited are strictly non-refundable, including domain registrations, dedicated servers, VPS services, add-ons, setup fees, custom configurations, software licenses, and one-time services. Service renewals are also non-refundable."
+    },
+    {
+      "title": "3. Refund Request Process",
+      "desc": "Refund requests must be submitted through the official NeuxNode Limited support system within the eligible refund period. Requests should include relevant account details and a valid reason for the refund request to assist with verification and processing."
+    },
+    {
+      "title": "4. Abuse of Refund Policy",
+      "desc": "Refund requests must be submitted through the official NeuxNode Limited support system within the eligible refund period. Requests should include relevant account details and a valid reason for the refund request to assist with verification and processing."
+    },
+    {
+      "title": "5. Processing Time",
+      "desc": "Refund requests must be submitted through the official NeuxNode Limited support system within the eligible refund period. Requests should include relevant account details and a valid reason for the refund request to assist with verification and processing."
+    },
+     {
+      "title": "6. Service Termination upon Refund",
+      "desc": "Once a refund has been approved and processed, the associated service may be suspended or permanently terminated. Customers are responsible for creating backups of any important data prior to requesting a refund."
+    },
+    {
+      "title": "7. Exceptions",
+      "desc": "NeuxNode Limited may, at its sole discretion, grant refunds outside the standard refund policy in cases involving verified billing errors, duplicate payments, or significant service-related failures. All such decisions are final."
+    }
+  ]
+}
