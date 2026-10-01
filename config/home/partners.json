@@ -2,7 +2,7 @@
   "speed": 70,
   "style": {
     "height": 45,
-    "opacity": 0.4
+    "opacity": 0.1
   },
   "partners": [
     "debian.svg",
